@@ -5,7 +5,7 @@ import {
   Hero,
   PopularProducts,
   Services,
-  SpecialOffer,
+  SpecialOffers,
   Subscribe,
   SuperQuality,
 } from "./sections";
@@ -27,7 +27,7 @@ const App = () => {
         <Services />
       </section>
       <section className='padding'>
-        <SpecialOffer />
+        <SpecialOffers />
       </section>
       <section className='bg-pale-blue padding'>
         <CustomerReviews />
